@@ -8,8 +8,7 @@ https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews/data
 **IDE**
 Google Colab
 
-**To Do*
-
+**To Do**
 Implement Word2Vec model
 
 **Reference**
