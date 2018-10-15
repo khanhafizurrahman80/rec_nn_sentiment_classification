@@ -1,4 +1,4 @@
-# Recurrent Neural Network Sentiment Classification
+# Recurrent Neural Network Sentiment Classification(On going)
 
 This project is developed for the learning purpose of recurrent neural network. The example is used to learn language model & Word Embeddings by applying on the movie dataset to classify sentiments.
 
